@@ -17,6 +17,7 @@ package Flashlight {
     part def Switch;
     item def SwitchOn;
     item def SwitchOff;
+    item def SwitchWhogi;
 
     part flashlight {
         part body : Body;
